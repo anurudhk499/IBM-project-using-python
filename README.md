@@ -40,7 +40,7 @@ The score is based on the number of food items eaten.
 snake_game.py: The main script containing the game logic and functions.
 README.md: Provides an overview of the project and instructions for running the game.
 
-Contributing
+### Contributing
 
 Feel free to fork this repository, make improvements, and submit pull requests!
 
